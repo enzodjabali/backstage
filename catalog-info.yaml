@@ -4,6 +4,7 @@ metadata:
   name: backstage
   annotations:
     github.com/project-slug: enzodjabali/backstage
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
